@@ -65,6 +65,7 @@ function timesFive(int) {
 }
 var answer = timesFive(5); // 8
 
+<<<<<<< HEAD
 // Stakc and Queues
 
 
@@ -114,3 +115,6 @@ it is literally using just the simple array with a paramteter of 2
 Joseph @revisualize 12:19
 @RobDeNo as per the instructions.
 @RobDeNo no the parameter is arr the value of that array may be [2]
+=======
+
+>>>>>>> master
